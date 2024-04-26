@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 
 Hello. I'm Nelly Dubois, web developer from Jablines, France.
 
+# Where to find me ?
+
+Github
+LinkedIn
+
+# Acknowledgements
+
+This profile readme i greatly inspired by Nicolas Brondin's profile
