@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 Hello. I'm Nelly Dubois, web developer from Jablines, France.
 
+To find out more about my experience and skills, see my [CV in PDF](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nelly%20DUBOIS%20dev%20web.pdf).
+
+
 # Technologies and tools I use 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -37,6 +40,8 @@ Hello. I'm Nelly Dubois, web developer from Jablines, France.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/NellyDubois/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nellydubois/)
+
+
 
 
 # Acknowledgements
