@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_lunatic_cartoon.jpg)
+![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_rognage_ovale-removebg-preview.png)
 
