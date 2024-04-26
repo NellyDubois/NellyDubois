@@ -14,13 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_rognage_ovale-removebg-preview.png)
+![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_rognage_ovale-removebg-preview.png) Hi, I'm Nelly Dubois, web developer from Jablines, France. To find out more about my experience and skills, please see my [CV in PDF](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nelly%20DUBOIS%20dev%20web.pdf). |
 
-Hello,
-
-I'm Nelly Dubois, web developer from Jablines, France.
-
-To find out more about my experience and skills, see my [CV in PDF](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nelly%20DUBOIS%20dev%20web.pdf).
 
 
 # Technologies and tools I use 
