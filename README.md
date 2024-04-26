@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_lunatic_cartoon.jpg)
+
