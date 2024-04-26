@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 ![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_rognage_ovale-removebg-preview.png)
 
+Hello. I'm Nelly Dubois, web developer from Jablines, France.
+
