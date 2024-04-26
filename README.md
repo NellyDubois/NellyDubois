@@ -1,7 +1,3 @@
-
-
-Hello. I'm Nelly Dubois, web developer from Jablines, France.
-
 <!--
 **NellyDubois/NellyDubois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
