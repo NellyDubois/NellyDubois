@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Projet en Construction
+
+![Under Construction](https://www.flaticon.com/free-icon/roadwork_3967195?)
+
+**Attention! Ce projet est actuellement en cours de construction.**
+
 
 | ![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_rognage_ovale-removebg-preview.png) | 
 | :------------------------------------------------------: |
