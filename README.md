@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 # Projet en Construction
 
-![Under Construction](https://github.com/NellyDubois/NellyDubois/blob/main/img/travaux)
-
-**Attention! Ce projet est actuellement en cours de construction.**
+<div style="display: inline-block; vertical-align: middle;">
+  <img src="https://github.com/NellyDubois/NellyDubois/blob/main/img/travaux.png" alt="Under Construction" width="80" height="80">
+   <span br>Attention! Ce projet est actuellement en cours de construction.</span>
+</div>
 
 
 | ![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_rognage_ovale-removebg-preview.png) | 
