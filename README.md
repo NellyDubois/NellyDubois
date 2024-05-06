@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Projet en Construction
 
-![Under Construction](https://www.flaticon.com/free-icon/roadwork_3967195?)
+![Under Construction](https://github.com/NellyDubois/NellyDubois/blob/main/img/travaux)
 
 **Attention! Ce projet est actuellement en cours de construction.**
 
