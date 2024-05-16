@@ -25,14 +25,10 @@ Here are some ideas to get you started:
 | ![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_rognage_ovale-removebg-preview.png) | 
 | :------------------------------------------------------: |
 -->
-- Bonjour, je suis Nelly Dubois, développeuse web de Jablines, France. 
-- Pour en savoir plus sur mon expérience et mes compétences, consultez mon [CV en PDF](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nelly%20DUBOIS%20dev%20web.pdf). |
 
 # Présentation
-
-Bonjour, je suis Nelly Dubois, développeuse web de Seine-et-Marne, France. 🇫🇷
-
-Je suis spécialisée en développement web full-stack avec des compétences en gestion de projets et en analyse de données.
+- Bonjour, je suis Nelly Dubois, développeuse web de  Seine-et-Marne, France. 🇫🇷
+- Pour en savoir plus sur mon expérience et mes compétences, consultez mon [CV en PDF](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nelly%20DUBOIS%20dev%20web.pdf). |
 
 
 
@@ -44,6 +40,7 @@ Je suis spécialisée en développement web full-stack avec des compétences en 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
