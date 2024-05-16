@@ -12,18 +12,30 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 # Projet en Construction
+-->
 
 <div style="display: inline-block; vertical-align: middle;">
   <img src="https://github.com/NellyDubois/NellyDubois/blob/main/img/travaux.png" alt="Under Construction" width="80" height="80">
-   <span br>Attention! Ce projet est actuellement en cours de construction.</span>
+   <span> Attention! Ce projet est encore en cours de construction.</span>
 </div>
 
-
+<!--
 | ![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_rognage_ovale-removebg-preview.png) | 
 | :------------------------------------------------------: |
-| Bonjour, je suis Nelly Dubois, développeuse web de Jablines, France. Pour en savoir plus sur mon expérience et mes compétences, consultez mon [CV en PDF](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nelly%20DUBOIS%20dev%20web.pdf). |
+-->
+- Bonjour, je suis Nelly Dubois, développeuse web de Jablines, France. 
+- Pour en savoir plus sur mon expérience et mes compétences, consultez mon [CV en PDF](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nelly%20DUBOIS%20dev%20web.pdf). |
+
+# Présentation
+
+Bonjour, je suis Nelly Dubois, développeuse web de Seine-et-Marne, France. 🇫🇷
+
+Je suis spécialisée en développement web full-stack avec des compétences en gestion de projets et en analyse de données.
+
+
+
 
 
 # Technologies and tools I use 
