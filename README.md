@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 -->
 
 # Présentation
-- Bonjour, je suis Nelly Dubois, développeuse web de  Seine-et-Marne, France. 🇫🇷
-- Pour en savoir plus sur mon expérience et mes compétences, consultez mon [CV en PDF](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nelly%20DUBOIS%20dev%20web.pdf). |
+- Bonjour, je suis Nelly Dubois, développeuse web en Seine-et-Marne, France. 🇫🇷
+- Pour en savoir plus sur mon expérience et mes compétences, consultez mon [CV en PDF](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nelly%20DUBOIS%20dev%20web.pdf). 
 
 
 
@@ -61,3 +61,70 @@ Here are some ideas to get you started:
 # Acknowledgements
 
 This profile readme is greatly inspired by Nicolas Brondin's profile
+
+
+
+_____________________________
+# Présentation
+
+<div style="display: inline-block; vertical-align: middle;">
+  <img src="https://www.flaticon.com/free-icons/flag" alt="Drapeau français" width="80" height="80">
+</div>
+## Français
+
+Bonjour, je suis Nelly Dubois, développeuse web de Seine-et-Marne, France. [Drapeau français](https://www.flaticon.com/free-icons/flag)
+
+Je suis spécialisée en développement web full-stack avec des compétences en gestion de projets et en analyse de données.
+
+### Technologies et outils que j'utilise
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- React
+- NPM
+- Git
+- Visual Studio Code
+- Shell
+- PostgreSQL
+- Jira
+- Power BI
+- SAS
+
+### Où me trouver ?
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/NellyDubois/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nellydubois/)
+
+
+## English
+
+Hello, I am Nelly Dubois, a web developer from Seine-et-Marne, France. [Drapeau anglais](https://www.flaticon.com/free-icons/uk-flag)
+
+I specialize in full-stack web development with project management and data analysis skills.
+
+### Technologies and tools I use
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- React
+- NPM
+- Git
+- Visual Studio Code
+- Shell
+- PostgreSQL
+- Jira
+- Power BI
+- SAS
+
+### Where to find me?
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/NellyDubois/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nellydubois/)
+
+
+
+
