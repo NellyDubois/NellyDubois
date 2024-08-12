@@ -13,13 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Projet en Construction
--->
 
-<div style="display: inline-block; vertical-align: middle;">
-  <img src="https://github.com/NellyDubois/NellyDubois/blob/main/img/travaux.png" alt="Under Construction" width="80" height="80">
-   <span> Attention! Ce projet est encore en cours de construction.</span>
-</div>
+-->
 
 <!--
 | ![Cover](https://github.com/NellyDubois/NellyDubois/blob/main/img/Nel_rognage_ovale-removebg-preview.png) | 
@@ -29,14 +24,14 @@ Here are some ideas to get you started:
 
 
 
-_____________________________
+
 
 
 <div style="display: inline-block; vertical-align: middle;">
   <img src="https://github.com/NellyDubois/NellyDubois/blob/main/img/france.png" alt="Drapeau Royaume-Uni" width="40">
 </div>
 
-## Présentation
+# Présentation
 
 👋 Bonjour, je suis Nelly Dubois, développeuse web full-stack en Seine-et-Marne, France.
 
@@ -58,7 +53,7 @@ _____________________________
 😄 Pronoms : Elle/Her
 
 
-## Technologies et outils que j'utilise
+## Technologies et outils de prédilection
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -78,6 +73,8 @@ _____________________________
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/NellyDubois/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nellydubois/)
+[![Mon site web](https://img.shields.io/badge/Mon%20site-2DD4BF)](https://webdev-nelly-dubois.netlify.app/)
+
 
 ---
 
@@ -126,6 +123,7 @@ _____________________________
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/NellyDubois/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nellydubois/)
+[![My website](https://img.shields.io/badge/Mon%20site-2DD4BF)](https://webdev-nelly-dubois.netlify.app/)
 
 
 
